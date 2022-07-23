@@ -11,7 +11,7 @@
   <param name="teamcity:branchSpec" value="refs/heads/*" />
   <param name="url" value="https://github.com/AlexeyKhrapov/example-teamcity.git" />
   <param name="useAlternates" value="AUTO" />
-  <param name="username" value="ahr@sofp.ru" />
+  <param name="username" value="ahr" />
   <param name="usernameStyle" value="USERID" />
 </vcs-root>
 
