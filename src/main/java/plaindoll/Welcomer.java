@@ -10,5 +10,7 @@ public class Welcomer{
 	public String sayNeedGold(){
 		return "Not enough gold";
 	}
-	
+	public String sayUnsolicitedAdvice(){
+		return "A good hunter stalks his prey with care, and only strikes when the time is right."
+	}
 }
