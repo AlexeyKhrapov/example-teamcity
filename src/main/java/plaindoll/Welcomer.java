@@ -10,7 +10,4 @@ public class Welcomer{
 	public String sayNeedGold(){
 		return "Not enough gold";
 	}
-	public String sayHunterMission(){
-		return "Your mission was to identify American Hunters and gain their trust";
-	}
 }
